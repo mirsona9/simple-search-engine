@@ -1,0 +1,5 @@
+Search Term          File Names                                                   Hits Found
+lorem                document1.txt, document2.txt                                 15        
+risus                document1.txt, document2.txt                                 10        
+etiam                document1.txt, document2.txt                                 9         
+laptop               -                                                            0         
